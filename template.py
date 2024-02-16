@@ -15,6 +15,8 @@ list_of_files = [
    "src/exception/exception.py",
    "src/logger/__init__.py",
    "src/logger/logger.py",
+   "src/utils/__init__.py",
+   "src/utils/utility.py",
    "tests/__init__.py",
    "tests/unit/__init__.py",
    "tests/integration/__init__.py",
