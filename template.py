@@ -4,10 +4,17 @@ from pathlib import Path
 #package_name = "mongodb_connect"
 
 list_of_files = [
-   ".github/workflows/ci.yaml",
+   ".github/workflows/.gitkeep",#/ci.yaml",
    "src/__init__.py",
- #  f"src/{package_name}/__init__.py", 
- #  f"src/{package_name}/mongo_crud.py", 
+   "src/components/__init__.py",
+   "src/components/data_ingestion.py",
+   "src/components/data_transformation.py",
+   "src/components/data_evaluation.py",
+   "src/components/model_trainer.py",
+   "src/exception/__init__.py",
+   "src/exception/exception.py",
+   "src/logger/__init__.py",
+   "src/logger/logger.py",
    "tests/__init__.py",
    "tests/unit/__init__.py",
    "tests/integration/__init__.py",
