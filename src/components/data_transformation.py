@@ -29,7 +29,7 @@ class DataTransformation:
             
             # Define which columns should be ordinal-encoded and which should be scaled
             categorical_cols = ['Cut', 'Color','Clarity']
-            numerical_cols = ['Carat', 'Depth','Table', 'X(length)', 'Y(width)', 'Z(Depth)']
+            numerical_cols = ['Carat', 'Depth','Table', 'x', 'y', 'z']
             
             # Define the custom ranking for each ordinal variable
             cut_categories = ['Fair', 'Good', 'Very Good','Premium','Ideal']
