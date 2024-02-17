@@ -1,4 +1,4 @@
-Carat(Weight of Daimond),Cut(Quality),Color,Clarity,Depth,Table,Price(in US dollars),X(length),Y(width),Z(Depth)
+Carat,Cut,Color,Clarity,Depth,Table,Price,x,y,z
 0.23,Ideal,E,SI2,61.5,55.0,326,3.95,3.98,2.43
 0.21,Premium,E,SI1,59.8,61.0,326,3.89,3.84,2.31
 0.23,Good,E,VS1,56.9,65.0,327,4.05,4.07,2.31

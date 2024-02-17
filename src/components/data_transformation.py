@@ -75,10 +75,10 @@ class DataTransformation:
             test_df=pd.read_csv(test_path)
 
             # changing cols with rename() 
-            train_df = train_df.rename(columns = {"X(length)": "x", "Y(width)":"y", "Z(Depth)": "z",'Carat(Weight of Daimond)':'Carat',
-                                                  'Cut(Quality)':'Cut', 'Price(in US dollars)':'Price'}) 
-            test_df = test_df.rename(columns = {"X(length)": "x", "Y(width)":"y", "Z(Depth)": "z",'Carat(Weight of Daimond)':'Carat',
-                                                  'Cut(Quality)':'Cut', 'Price(in US dollars)':'Price'}) 
+         #   train_df = train_df.rename(columns = {"X(length)": "x", "Y(width)":"y", "Z(Depth)": "z",'Carat(Weight of Daimond)':'Carat',
+          #                                        'Cut(Quality)':'Cut', 'Price(in US dollars)':'Price'}) 
+           # test_df = test_df.rename(columns = {"X(length)": "x", "Y(width)":"y", "Z(Depth)": "z",'Carat(Weight of Daimond)':'Carat',
+            #                                      'Cut(Quality)':'Cut', 'Price(in US dollars)':'Price'}) 
             
             logging.info("read and rename of train and test data complete")
             logging.info(f'Train Dataframe Head : \n{train_df.head().to_string()}')
