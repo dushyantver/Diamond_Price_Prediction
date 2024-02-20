@@ -3,6 +3,7 @@ import sys
 import mlflow
 import mlflow.sklearn
 import numpy as np
+from dataclasses import dataclass
 import pickle
 from src.utils.utility import load_object
 from urllib.parse import urlparse
@@ -10,6 +11,7 @@ from sklearn.metrics import mean_squared_error,mean_absolute_error,r2_score
 from src.logger.logger import logging
 from src.exception.exception import customexception
 
+@dataclass
 class ModelEvaluation:
     def __init__(self):
         logging.info("evaluation started")
