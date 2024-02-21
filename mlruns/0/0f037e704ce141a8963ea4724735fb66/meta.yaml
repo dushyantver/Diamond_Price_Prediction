@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data_analytics_new/MLOPS/Diamond_Price_Prediction/mlruns/0/0f037e704ce141a8963ea4724735fb66/artifacts
+end_time: 1708497600204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f037e704ce141a8963ea4724735fb66
+run_name: treasured-skunk-243
+run_uuid: 0f037e704ce141a8963ea4724735fb66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708497595189
+status: 3
+tags: []
+user_id: Oliver

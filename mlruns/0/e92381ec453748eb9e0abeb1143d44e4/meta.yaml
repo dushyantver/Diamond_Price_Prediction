@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data_analytics_new/MLOPS/Diamond_Price_Prediction/mlruns/0/e92381ec453748eb9e0abeb1143d44e4/artifacts
+end_time: 1708497678380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e92381ec453748eb9e0abeb1143d44e4
+run_name: carefree-pug-338
+run_uuid: e92381ec453748eb9e0abeb1143d44e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708497673492
+status: 3
+tags: []
+user_id: Oliver

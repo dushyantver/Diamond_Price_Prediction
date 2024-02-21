@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data_analytics_new/MLOPS/Diamond_Price_Prediction/mlruns/0/a5cd4093f29d4b3283ac049730eae5ea/artifacts
+end_time: 1708497310441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5cd4093f29d4b3283ac049730eae5ea
+run_name: blushing-bee-873
+run_uuid: a5cd4093f29d4b3283ac049730eae5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708497305632
+status: 3
+tags: []
+user_id: Oliver

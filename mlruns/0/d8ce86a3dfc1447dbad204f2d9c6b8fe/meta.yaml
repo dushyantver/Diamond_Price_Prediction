@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data_analytics_new/MLOPS/Diamond_Price_Prediction/mlruns/0/d8ce86a3dfc1447dbad204f2d9c6b8fe/artifacts
+end_time: 1708497374517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8ce86a3dfc1447dbad204f2d9c6b8fe
+run_name: youthful-cod-175
+run_uuid: d8ce86a3dfc1447dbad204f2d9c6b8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708497369777
+status: 3
+tags: []
+user_id: Oliver
